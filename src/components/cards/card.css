@@ -1,0 +1,64 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --border-color: #000000;
+}
+
+.card{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.p-card{
+    padding: 0.75rem;
+}
+
+.border-color{
+    border: 1px thin;
+    border-color: var(--border-color);
+}
+
+.card-lb{
+    background-color: #92a6cc;
+    color: #161719
+}
+
+.card-light{
+    /* background-color: #fcfcfc; #2B4459 */
+    /* color: #1D3040; */
+    background-color: #00171f;
+    color: #9AADD1;
+    border: 1px solid #1D3040;;
+}
+
+.blue-dark{
+    border-color: #1D3040; 
+}
+
+.card-transparent{
+    border: 1px solid #1D3040;
+    color: #050505;
+}
+
+.card-dark{
+    background-color: #00171f;
+    /* color: #B2C8F1; */
+    color: #EDF2FB;
+    border: 1px solid #EDF2FB;
+}
+
+.card-dark-transparent{
+    background-color: #18181b;
+    color: #dbddde;
+    border: 1px solid #EDF2FB;
+}
+
+.card-light-transparent{
+    background-color: #ffffffa8;
+    color: #00171f;
+    border: 1px solid #EDF2FB;
+}
+
+.image-card{
+    border-radius: 10px;
+}

@@ -1,0 +1,34 @@
+.avatar-circle{
+    border-radius: 50%;
+}
+
+.avatar-square{
+    border-radius: 10%;
+}
+
+.avatar-sm{
+    width: 64px;
+    height: 64px;
+}
+
+.avatar-md{
+    width: 128px;
+    height: 128px;
+}
+
+.avatar-lg{
+    width: 244px;
+    height: 244px;
+}
+
+.avatar-center{
+    text-align: center;
+}
+
+.avatar-start{
+    text-align: start;
+}
+
+.avatar-end{
+    text-align: end;
+}
